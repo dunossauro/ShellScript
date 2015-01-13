@@ -1,7 +1,7 @@
 #!/bin/bash
 	#
 	#	Esse programa executa a pós-instação do Slackware 14.1(XFCE)
-	#	No computador Asus k45vm
+	#	No computador Asus k45vm - GeForce 630M 2GB
 	#	
 	#	Serão feitas instalações de programas necessários como Bumblebee, XFBurn, LapTopMode
 	#
